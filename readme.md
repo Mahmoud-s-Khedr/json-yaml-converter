@@ -1,7 +1,3 @@
-Here's a more professional and structured README for your app:  
-
----
-
 # JSON-YAML Converter API  
 
 A lightweight Express.js API that converts **JSON to YAML** and **YAML to JSON** efficiently.  
