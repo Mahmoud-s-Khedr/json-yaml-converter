@@ -17,7 +17,7 @@ A lightweight Express.js API that converts **JSON to YAML** and **YAML to JSON**
 
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/yourusername/json-yaml-converter.git
+   git clone https://github.com/mahmoud-s-Khedr/json-yaml-converter.git
    cd json-yaml-converter
    ```
 2. Install dependencies:  
